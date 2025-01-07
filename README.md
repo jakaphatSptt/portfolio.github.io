@@ -1,3 +1,3 @@
 ﻿# My Portfolio
-Visit my portfoli website 
-https://jakaphatSptt.github.io/jakaphat_portfolio
+Visit my portfolio website 
+https://jakaphatsptt.github.io/portfolio.github.io/

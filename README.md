@@ -1,3 +1,3 @@
-﻿# Jakaphat Singchoo Portfolio
+﻿# My Portfolio
 Visit my portfoli website 
-https://gcg000sptt.github.io/jakaphat_portfolio
+https://jakaphatSptt.github.io/jakaphat_portfolio
